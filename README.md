@@ -1,3 +1,11 @@
+# Email-Classification
+It's very easy to build a ML model which works well on training data, but is it the case for test data?
+This project is done for learning purposes. It aims to test a ML model on real Gmail emails to evaluate it's accuracy. We first build the model and then we extract
+our "NORMAL" emails from our inbox and then we feed the built model with them to know if he gonna classify them as spams (which means our model is bad) or normal
+(which mean our model is very good). If you want you can run the same test on your spam inbox.
+
+![project](https://user-images.githubusercontent.com/24523745/87186436-c9627f00-c2eb-11ea-98ac-0b4591253904.png)
+
 # Email-Spam-Classifier-Using-Naive-Bayes
 
 Naive Bayes is a supervised classification technique based on Bayes' Theorem with an assumption of independence among predictors. That is, a Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature.
@@ -19,3 +27,5 @@ and a bunch of emails classified as ['ham'](not spam)
 * The testingData link is attached here() which gives the testing result.
 * The spamClassifier(https://github.com/Himanshu-Gupta2001/email_spam_classification_Himanshu-Gupta/blob/main/spamClassifier.py) classifies the given input as a spam/ham. 
 
+# Testing Your emails
+To test your emails just run the code in jupyter notebook and write your email as a text.
