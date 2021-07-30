@@ -23,7 +23,7 @@ and a bunch of emails classified as ['ham'](not spam)
 
 ### Here are the direct links of my files used in this project-
 * The dataSet link is attached here(https://github.com/Himanshu-Gupta2001/email_spam_classification_Himanshu-Gupta/blob/main/emailSpam.csv).
-* The trainingData link is attached here() which train the data .
+* The trainingData link is attached here(https://github.com/Himanshu-Gupta2001/email_spam_classification_Himanshu-Gupta/blob/main/trainingData.ipynb) which train the data .
 * The testingData link is attached here(https://github.com/Himanshu-Gupta2001/email_spam_classification_Himanshu-Gupta/blob/main/testingData.ipynb) which gives the testing result.
 * The spamClassifier(https://github.com/Himanshu-Gupta2001/email_spam_classification_Himanshu-Gupta/blob/main/spamClassifier.py) classifies the given input as a spam/ham. 
 
