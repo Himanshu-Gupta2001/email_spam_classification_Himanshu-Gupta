@@ -13,8 +13,9 @@ and a bunch of emails classified as ['ham'](not spam)
 
 **Python Libraries used:** pandas, numpy, io, os, CountVectorizer and MultinomialNB from sklearn.
 
-
-The dataSet link is attached here().
-The trainingData link is attached here().
-The [Spam classifier]() classifies the given input as a spam/ham. 
+### Here are the direct links of my files used in this project.
+* The dataSet link is attached here().
+* The trainingData link is attached here() which train the data .
+* The testingData link is attached here() which gives the testing result.
+* The spamClassifier() classifies the given input as a spam/ham. 
 
