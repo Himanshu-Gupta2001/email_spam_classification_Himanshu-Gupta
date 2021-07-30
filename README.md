@@ -17,5 +17,5 @@ and a bunch of emails classified as ['ham'](not spam)
 * The dataSet link is attached here().
 * The trainingData link is attached here() which train the data .
 * The testingData link is attached here() which gives the testing result.
-* The spamClassifier() classifies the given input as a spam/ham. 
+* The spamClassifier(https://github.com/Himanshu-Gupta2001/email_spam_classification_Himanshu-Gupta/blob/main/spamClassifier.py) classifies the given input as a spam/ham. 
 
