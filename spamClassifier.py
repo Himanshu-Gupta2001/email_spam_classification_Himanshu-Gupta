@@ -16,7 +16,7 @@ import pickle
 import warnings 
 warnings.filterwarnings('ignore')
 
-df = pd.read_csv('spam.csv')
+df = pd.read_csv('emailSpam.csv')
 #Remove duplicates
 df.drop_duplicates(inplace = True)
 
